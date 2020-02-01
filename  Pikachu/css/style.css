@@ -1,0 +1,100 @@
+* {
+    font-family: "Lato";
+    text-align: center;
+    /* color: #FFFF00; */
+}
+
+.white {
+    color: white;
+}
+
+h1 {
+    padding-top: 150px;
+    font-size: 5em;
+    font-weight: bold;
+}
+
+h3 {
+    padding-top: 10px;
+    color: #555555;
+}
+
+footer {
+    padding-top: 10px;
+}
+
+.sub-title {
+    padding-top: 30px;
+    font-size: 2.5em;
+}
+
+.about {
+    padding-top:30px;
+    padding-bottom:10px;
+}
+
+.status {
+    font-size: 1.5em;
+    font-weight: 100;
+    padding-bottom: 10px;
+    border-bottom: dashed 1px #CC6699;
+}
+
+.top-img {
+    padding-top: 120px;
+    padding-bottom: 30px;
+    width: 70px;
+}
+
+.img-movie {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    width: 400px;
+}
+
+.movie-title {
+    font-size: 3em;
+    font-weight: 1000;
+    padding-top: 20px;
+    text-decoration: underline;
+}
+
+.img-pallet {
+    width: 400px;
+    padding-top: 30px;
+    padding-bottom: 10px;
+}
+
+.heading {
+    font-size: 3em;
+    padding-bottom: 30px;
+}
+
+.section1 {
+    background: linear-gradient(#e9defa, #fbfcdb);
+    padding: 50px;
+}
+
+.section2 {
+    padding: 50px;
+}
+
+.section3 {
+    background: linear-gradient(#a855a8, #97d9e1);
+    padding: 50px;
+}
+
+.navbar-light .navbar-toggler {
+    border-color: rgba(0,0,0,0);
+    padding-right: 0;
+}
+
+.nav-item {
+    padding-right: 15px;
+    font-size: 1.5em;
+    padding-top: 2px;
+}
+
+.navbar-toggler-icon {
+    font-size: 1.3em;
+}
